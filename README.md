@@ -1,8 +1,8 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <!-- เปลี่ยนไฟล์ banner.png เป็นภาพปกที่ต้องการ (เช่น assets/banner.png) -->
-  <img src="assets/banner.png" alt="header image" style="max-width:100%;height:auto;" />
+  <img src="https://raw.githubusercontent.com/⟪USERNAME⟫/⟪REPO⟫/main/images/IMG_1044.jpg" alt="header image" />
 </p>
+
 
 <h1 align="center">Hi, I’m Nontachat Tumnus <img height="28" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
@@ -75,8 +75,8 @@
 
 ## 🤝 Let’s Connect
 - 💌 **kae297214@gmail.com**  
-- LinkedIn: `https://linkedin.com/in/⟪USERNAME⟫`  
-- Twitter/X: `https://twitter.com/⟪USERNAME⟫`
+- LinkedIn: `https://www.linkedin.com/in/nontachat-tumnus-595b11209/`  
+- Twitter/X: `https://x.com/Nonloveanimeto`
 
 ---
 
