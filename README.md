@@ -1,7 +1,8 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/⟪USERNAME⟫/⟪REPO⟫/main/images/IMG_1044.jpg" alt="header image" />
+  <img src="assets/banner.png" alt="header image" style="max-width:100%;height:auto;" />
 </p>
+
 
 
 <h1 align="center">Hi, I’m Nontachat Tumnus <img height="28" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
