@@ -1,7 +1,6 @@
 
 <p align="center">
-  <img src="![Uploading IMG_1044.png…]()
-" alt="header image" />
+  <img src="" alt="header image" />
 </p>
 # Nontachat Tumnus 👋
 **Backend Developer | Java Programmer**
