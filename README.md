@@ -16,6 +16,13 @@
 
 ---
 
+## 🚀 About Me
+- 🌱 I’m currently learning **Machine Learning & Data Visualization**  
+- 🛠 Daily driver stack: **HTML, CSS, JavaScript, Node.js, Bootstrap**  
+- 🎯 2025 Goal: **Build impactful front-end projects **  
+- 📫 Reach me: **kae297214@gmail.com** | [LinkedIn](https://www.linkedin.com/in/nontachat-tumnus-595b11209/) | [GitHub](https://github.com/Non12345-tech/Building-Tech-Portfolios-Interview-Skills)
+
+---
 ## 🎯 Objective
 > “To obtain a Backend Developer position where I can apply my knowledge of server-side programming, databases, and APIs to build efficient and scalable applications while continuously learning modern backend technologies.”
 
@@ -57,5 +64,18 @@ Critical Thinking · Teamwork · Time Management · Public Speaking · Service-m
 ## 🌐 Languages
 - Thai – Native  
 - English – Intermediate  
+
+
+## 🤝 Let’s Connect
+> **“Great products are built by great people working together.”**
+
+- 💌 Email: **kae297214@gmail.com**  
+- 🐦 DM me on [X/Twitter](https://x.com/Nonloveanimeto)  
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Non12345-tech&style=flat-square" alt="profile views"/>
+</p>
+
 
 ---
