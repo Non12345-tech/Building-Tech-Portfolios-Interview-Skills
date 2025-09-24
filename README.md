@@ -56,9 +56,3 @@ Critical Thinking · Teamwork · Time Management · Public Speaking · Service-m
 - English – Intermediate  
 
 ---
-
-## 📌 References
-**Dr. Chirawan Ronran**  
-Lecturer, Information Technology, Faculty of Science, Maejo University  
-📞 088-650-6042  
-✉️ chirawan@mju.ac.th
