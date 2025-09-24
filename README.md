@@ -18,7 +18,7 @@ _Expected Graduation: February 2027_
 
 ---
 
-## 💼 Activities & Projects
+## 💼 Activities
 
 - **Official Facebook Page for TAP Valuation Co., Ltd., Chiang Mai Branch**  
   Developed and trained participants on creating and managing Facebook Pages for organizational communication, news, and activity promotion.
