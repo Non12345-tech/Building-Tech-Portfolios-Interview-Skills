@@ -1,86 +1,58 @@
-<!-- Banner / Cover -->
-<p align="center">
-  <img src="assets/banner.png" alt="header image" style="max-width:100%;height:auto;" />
-</p>
+# Nontachat Tumnus 👋
 
+**Backend Developer | Java Programmer**
 
-
-<h1 align="center">Hi, I’m Nontachat Tumnus <img height="28" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
-
-<p align="center">
-  <strong>Computer Programmer • Full-stack Enthusiast • Tech Learner</strong><br/>
-  <em>“To apply programming skills, problem-solving abilities, and a passion for software development to contribute and grow professionally.”</em>
-</p>
+📍 289/83 M.3 Donkaew, Mae Rim, Chiang Mai 50180  
+📞 064-627-0472 | ✉️ kae297214@gmail.com  
+[GitHub Profile](https://github.com/YOUR_USERNAME)  
 
 ---
 
-## 📇 Contact
-- 📞 **064-627-0472**  
-- ✉️ **kae297214@gmail.com**  
-- 📍 **289/83 M.3 Donkaew, Mae Rim, Chiang Mai 50180**
-
----
-
-## 🚀 About / Objective
-> "To obtain a position as a Computer Programmer where I can apply my programming skills, problem-solving abilities, and passion for software development to contribute to the success of the organization while continuing to learn and grow professionally."
+## 🎯 Objective
+“To obtain a Backend Developer position where I can apply my knowledge of server-side programming, databases, and APIs to build efficient and scalable applications, while continuously learning modern backend technologies.”
 
 ---
 
 ## 🎓 Education
-- **Maejo University**  
-  Bachelor of Science in Information Technology  
-  *Expected Graduation: February 2027*
+**Bachelor of Science in Information Technology** – Maejo University  
+_Expected Graduation: February 2027_
 
 ---
 
-## 📌 Activities & Experience
-- **2023-08-19** — Joined the merit-making project on the 21st anniversary of the Information Technology program.  
-- **2025-02-16** — Participated in *Senior Alumni Dialogue with New Graduates – The First Step into the World of Work, Academic Year 2025*.  
-- **2025-09-01** — Developed the official Facebook Page for TAP Valuation Co., Ltd., Chiang Mai Branch — trained participants to create and manage a Facebook Page for disseminating information, news, and activities.
+## 💼 Activities & Experience
+- **2025-09-01**: Developed the official Facebook Page for **TAP Valuation Co., Ltd., Chiang Mai Branch**.  
+  Trained participants on creating and managing a Facebook Page as an effective tool for organizational communication, news, and activity promotion.
 
 ---
 
-## 🧰 Skills
-- English language speaker  
-- Teamwork & collaboration  
-- Critical thinking & problem solving  
-- Time management  
-- Service-minded, pleasant personality  
-- Good relationship building
+## 🛠 Skills
+
+**Programming & Frameworks:**  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+**Tools & IDEs:**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![BlueJ](https://img.shields.io/badge/BlueJ-0000FF?logo=bluej&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white) ![Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white)
+
+**Soft Skills:**  
+Critical Thinking · Teamwork · Time Management · Public Speaking · Service-minded  
 
 ---
 
 ## 🌐 Languages
-- Thai (Native)  
-- English (Professional)
+- Thai: Native  
+- English: Intermediate  
 
 ---
 
-## 📌 Featured Projects
-> ใส่โปรเจกต์เด่น 2–3 โปรเจกต์ของคุณที่นี่ (ลิงก์ไปยัง repo หรือ live)
-
-| Project | Tech | Short notes | Links |
-|---|---:|---|---|
-| Realtime Dashboard | React · Node · PostgreSQL | Real-time data display & websocket handling | [Repo](https://github.com/⟪USERNAME⟫/realtime-dashboard) |
-| Serverless API | Python · FastAPI | Deployed on AWS Lambda | [Repo](https://github.com/⟪USERNAME⟫/serverless-api) |
-
----
-
-## 📈 GitHub Stats
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
-</div>
+## 📌 References
+**Dr. Chirawan Ronran**  
+Lecturer, Information Technology, Faculty of Science, Maejo University  
+📞 086-659-6942  
+✉️ chirawan@mju.ac.th  
 
 ---
 
 ## 🤝 Let’s Connect
-- 💌 **kae297214@gmail.com**  
-- LinkedIn: `https://www.linkedin.com/in/nontachat-tumnus-595b11209/`  
-- Twitter/X: `https://x.com/Nonloveanimeto`
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
-</p>
+- 📧 Email: kae297214@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/nontachat-tumnus-595b11209/)  
+- [GitHub](https://github.com/Non12345-tech)
