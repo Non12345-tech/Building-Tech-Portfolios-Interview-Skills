@@ -1,6 +1,11 @@
 
+<h1 align="center">Hi, I’m Nontachat Tumnus <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+
 <p align="center">
-  <img src="" alt="header image" />
+  <strong>Backend Developer• Lifelong Learner</strong><br/>
+  <em>“Creating responsive, user-friendly web applications with clean and modern design.”</em>
+</p>
+
 </p>
 # Nontachat Tumnus 👋
 **Backend Developer | Java Programmer**
