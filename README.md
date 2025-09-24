@@ -23,12 +23,6 @@ _Expected Graduation: February 2027_
 - **Official Facebook Page for TAP Valuation Co., Ltd., Chiang Mai Branch**  
   Developed and trained participants on creating and managing Facebook Pages for organizational communication, news, and activity promotion.
 
-- **Student Management System (Java)**  
-  Built a system to manage student information efficiently:  
-  - Organize student data by name, ID, class, etc.  
-  - Generate reports for performance and attendance  
-  - Search and filter student records easily  
-  - Support administrative tasks with accurate data handling
 
 ---
 
